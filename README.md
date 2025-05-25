@@ -41,7 +41,8 @@ I’m passionate about **quality, system logic, and user experience**, and I’v
 **Freelance QA Tester – Remote (2025 – Present)**  
 Platforms: uTest, Fiverr, TripleTen Bootcamp  
 - Executed 50+ tests (web, mobile, e-commerce, AI)  
-- 5.0/5.0 on Fiverr, Bronze 83% bug rating on uTest  
+- 5.0/5.0 on Fiverr, Bronze 8![Uploading header.png…]()
+3% bug rating on uTest  
 - Used Postman, Selenium, Jira, Android Studio, Git, SQL
 
 **Independent Litigator & Corporate Lawyer (2015 – Present)**  
