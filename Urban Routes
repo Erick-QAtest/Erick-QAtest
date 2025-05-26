@@ -1,0 +1,50 @@
+# Urban Routes Carsharing Functionality Testing 
+
+This repository outlines the quality assurance activities performed on the Urban Routes carsharing application. The testing focused on functional aspects across two key environments.
+
+## Project Scope
+
+The testing encompassed:
+
+* Analyzing UI designs and functional requirements.
+* Developing and utilizing checklists and test cases.
+* Executing test procedures in specified browser/resolution combinations.
+* Documenting and reporting identified defects.
+
+## Test Activities
+
+The following testing tasks were completed:
+
+1.  Creation of a design checklist for the booking form.
+2.  Creation of a functionality checklist for the "Payment method" and "Add card" features.
+3.  Preparation of test cases for the "Book" action.
+4.  Preparation of test cases for the car rental functionality.
+5.  Execution of tests and logging of defects.
+
+## Test Artifacts
+
+The comprehensive test documentation, including checklists and test cases, along with links to reported bugs, can be found in the Google Sheets document:
+
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1c2aOxaRlM2Z2-kXdyOuEkmezdfqEVfWd/edit?usp=sharing&ouid=100652702573407654197&rtpof=true&sd=true)
+
+## Target Environments
+
+Testing was conducted on:
+
+* Google Chrome (800x600)
+* Firefox (1920x1080)
+
+## Utilized Tools
+
+The following tools were employed during this project:
+
+* Jira (Bug Reporting)
+* Browser Developer Tools (DevTools)
+* Figma (Design Analysis)
+
+---
+I led the testing efforts for the Urban Routes carsharing application, focusing on functional validation across key environments (Google Chrome at 800x600 and Firefox at 1920x1080). 
+This sprint's activities encompassed a thorough analysis of application designs and requirements, the strategic creation of detailed test documentation (including design and functionality checklists, and comprehensive test cases), rigorous test execution, and meticulous bug reporting using Jira.
+The testing scope covered critical user flows such as reservation, payment method management, the booking process, and the car rental feature. 
+The detailed findings, including checklists, test cases, and links to reported defects, are documented in the provided Google Sheets. 
+This systematic approach ensured a structured evaluation of the application's quality and identified areas for potential improvement.
