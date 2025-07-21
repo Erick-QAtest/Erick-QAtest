@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-I’m a **bilingual Jr. Manual QA Tester** with a strong foundation in legal analysis and a growing expertise in software quality assurance. My career blends critical thinking from law with modern testing methodologies and tools.
+I’m a **bilingual QA Engineer ** with a strong foundation in legal analysis and a growing expertise in software quality assurance. My career blends critical thinking from law with modern testing methodologies and tools.
 
 I’m passionate about **quality, system logic, and user experience**, and I’ve contributed to real-world projects involving e-commerce, conversational AI, and mobile apps. Currently enrolled in a QA Engineering Bootcamp, and aiming to specialize in **AI and Cloud Computing (AWS)** in 2025.
 
