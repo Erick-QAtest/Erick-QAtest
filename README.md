@@ -1,79 +1,100 @@
-# 👨‍💻 Erick Noe Cortés Peña
+👨‍💻 Erick Noe Cortés Peña
 
-**Manual QA Tester | Legal & Tech Hybrid | Guadalajara, México (Open to Relocation & Remote)**  
-📧 noe.cortescp@gmail.com | 📱 +52 331 239 1192  
-🔗 [LinkedIn](#) | 🔗 [GitHub](#)
+QA Engineer | Legal & Tech Hybrid | Building Quality with Logic and Precision
+📍 Guadalajara, México | 🌎 Open to Remote & Relocation
+📧 noe.cortescp@gmail.com
+ | 📱 +52 331 239 1192
+🔗 LinkedIn
+ | 🔗 GitHub
 
----
+🧭 My Journey – From Law to Logic, From Logic to Quality
 
-## 💡 About Me
+I began my career in law, where every word mattered and every inconsistency could change an outcome.
+Over time, I realized that testing software felt strikingly familiar: both demand logic, structure, and an obsession with precision.
 
-I’m a **bilingual QA Engineer ** with a strong foundation in legal analysis and a growing expertise in software quality assurance. My career blends critical thinking from law with modern testing methodologies and tools.
+When I transitioned into Quality Assurance, I didn’t leave law behind — I transformed it.
+I applied the same discipline used to interpret legal frameworks to understand system behaviors, to challenge assumptions, and to guarantee that what’s built truly works.
 
-I’m passionate about **quality, system logic, and user experience**, and I’ve contributed to real-world projects involving e-commerce, conversational AI, and mobile apps. Currently enrolled in a QA Engineering Bootcamp, and aiming to specialize in **AI and Cloud Computing (AWS)** in 2025.
+Today, I’m a QA Engineer with a LegalTech mindset — combining analytical reasoning with automation tools to create reliability in digital systems.
+For me, quality isn’t just about finding bugs; it’s about building trust between people and technology.
 
----
+💡 About Me
 
-## 🛠 Skills & Tools
+I’m a bilingual QA Engineer with a strong foundation in legal analysis and an evolving expertise in software testing and automation.
+My work bridges critical thinking from law with modern testing methodologies, creating clarity and structure where complexity lives.
 
-**Manual QA & Testing**
-- Functional, UI, Regression, Mobile Testing (Android)
-- Test Planning & Defect Documentation  
-- API Testing with Postman, Charles Proxy, DevTools  
-- Jira, Agile (Scrum), SQL (Basic Queries)
+Currently completing the TripleTen QA Engineering Bootcamp (2025) and expanding into AI & Cloud Computing (AWS).
 
-**Automation Fundamentals**
-- Selenium, Puppeteer, WebDriverIO  
-- Bash, JSON, Node.js (basic use)
+🛠 Skills & Tools
 
-**Web Development**
-- HTML, CSS, JavaScript, Liquid (Shopify), WordPress  
-- Git, GitHub, VS Code, Figma
+Manual QA & Testing
 
-**SEO & Content**
-- Keyword Research, Technical SEO, UX Optimization  
-- SEO Writing & Link Building
+Functional · UI · Regression · Mobile (Android)
 
----
+Test Planning & Defect Documentation
 
-## 🧪 Projects & Experience
+API Testing (Postman · Charles Proxy · DevTools)
 
-**Freelance QA Tester – Remote (2025 – Present)**  
-Platforms: uTest, Fiverr, TripleTen Bootcamp  
-- Executed 50+ tests (web, mobile, e-commerce, AI)  
-- 5.0/5.0 on Fiverr, Bronze 8![Uploading header.png…]()
-3% bug rating on uTest  
-- Used Postman, Selenium, Jira, Android Studio, Git, SQL
+Jira · Agile (Scrum) · SQL (Basic Queries)
 
-**Independent Litigator & Corporate Lawyer (2015 – Present)**  
-- Transferred legal logic to test scenarios and defect detection  
-- Developed precision and risk analysis in high-stakes environments
+Automation & Scripting
 
-**Entrepreneur – SPORTLAND & YouTube Channel**  
-- Managed an online sneaker business for over 10 years  
-- Built and optimized websites with Liquid, HTML, CSS  
-- Created 50+ SEO-optimized YouTube videos
+Selenium · Pytest · WebDriver Manager · Puppeteer · WebDriverIO
 
----
+JSON · Bash · Node.js (basic use)
 
-## 📚 Education
+Web Development & Optimization
 
-- 🎓 **QA Engineering Certificate**, TripleTen (Ongoing – 2025)  
-- 🎓 **MSc in International Business**, University of Guadalajara  
-- 🎓 **Law Degree (Attorney)**, University of Guadalajara  
+HTML · CSS · JavaScript · Liquid (Shopify) · WordPress
 
----
+Git · GitHub · VS Code · Figma
 
-## 🌐 Languages
+Technical SEO · UX Optimization · SEO Writing
 
-- **Spanish**: Native  
-- **English**: B2 (intermediate professional)
+🧪 Projects & Experience
+Freelance QA Tester – Remote (2025 – Present)
 
----
+Platforms: uTest · Fiverr · TripleTen Bootcamp
 
-## 🚀 Goals
+Executed 50 + end-to-end tests (web, mobile, AI apps)
 
-I’m seeking opportunities to apply my QA skills in **AI, Legal Tech, or agile product teams** where attention to detail, critical analysis, and clear documentation make a difference.
+Achieved 5.0⭐ Fiverr rating and 3 % bug rate on uTest
 
-Let's build quality software, together.
+Tools: Postman · Selenium · Jira · Android Studio · Git · SQL
+
+Independent Litigator & Corporate Lawyer (2015 – Present)
+
+Applied legal logic to test scenarios and defect analysis
+
+Developed precision and risk assessment in high-stakes environments
+
+Entrepreneur – SPORTLAND & YouTube Channel
+
+Managed an online sneaker business for 10 + years
+
+Built and optimized sites with Liquid · HTML · CSS
+
+Produced 50 + SEO-optimized YouTube videos
+
+🎓 Education
+
+QA Engineering Certificate, TripleTen (Ongoing – 2025)
+
+MSc in International Business, University of Guadalajara
+
+Law Degree (Attorney), University of Guadalajara
+
+🌐 Languages
+
+Spanish: Native
+
+English: B2 (Professional Working Proficiency)
+
+🚀 Mission & Vision
+
+I aim to merge legal precision with software logic — creating QA processes that are not only technically sound but ethically transparent.
+
+I’m seeking opportunities where AI, Legal Tech, and quality engineering intersect — places where clarity, accountability, and excellence shape the digital experience.
+
+Let’s build reliable, ethical, and high-quality technology — together.
 
